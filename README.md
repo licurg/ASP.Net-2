@@ -39,6 +39,7 @@
  - Додаємо файли: $ **git add .**
  - Робимо commit: $ **git commit -am "commit"**.
  - Завантажуємо все на heroku: $ **git push heroku master**. 
+
 Далі, коли щось змінюєте у проекті повторюєте три останні пункти.
 
 ![Alt Text](https://github.com/licurg/ASP.Net-2/blob/master/gifs/4.gif)
