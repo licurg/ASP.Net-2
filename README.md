@@ -28,6 +28,6 @@
 
 ![Alt Text](https://github.com/licurg/ASP.Net-2/blob/master/gifs/1.gif)
 
-4. Переходимо у вкладку Settings в нашому проекті. Тут нам потрібно додати buildpacks. В heroku немає стандартного buildpack для asp.net core, тому потрібно його дотати зі сторони.
+4. Переходимо у вкладку Settings в нашому проекті. Тут нам потрібно додати buildpacks. В heroku немає стандартного buildpack для asp.net core, тому потрібно його дотати зі сторони. Цих зборок багато, я використовую: https://github.com/jincod/dotnetcore-buildpack.
 
 ![Alt Text](https://github.com/licurg/ASP.Net-2/blob/master/gifs/2.gif)
