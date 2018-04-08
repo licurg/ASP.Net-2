@@ -1,2 +1,2 @@
 # ASP.Net-2
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://https://github.com/licurg/ASP.Net-2/tree/master/gifs/1.gif)
