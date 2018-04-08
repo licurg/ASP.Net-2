@@ -43,3 +43,19 @@
 Далі, коли щось змінюєте у проекті повторюєте три останні пункти.
 
 ![Alt Text](https://github.com/licurg/ASP.Net-2/blob/master/gifs/4.gif)
+
+6. Перевіряємо. У коді проекту прописано, якщо послати get запит на /api/values/, то ми повинні отримати відповідь 200:
+
+```
+[
+    "value1",
+    "value2"
+]
+```
+
+Для цього використаємо RestMan плагін для opera чи PostMan для Chrome, Mozilla. Через цей плагін можна відправляти запити на сайти.
+Відправимо get на http://PROJECT_NAME.herokuapp.com/api/values:
+
+![Alt Text](https://github.com/licurg/ASP.Net-2/blob/master/gifs/5.gif)
+
+Якщо маємо Status 200 і потрібну відповідь, то все працює.
