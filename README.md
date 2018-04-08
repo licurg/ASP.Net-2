@@ -23,3 +23,7 @@
  ]
 }
 ```
+
+3. Після регістрації на heroku.com, заходимо у "dashboard". Далі потрібно створити новий проект.
+
+![Alt Text](https://github.com/licurg/ASP.Net-2/blob/master/gifs/1.gif)
